@@ -6,7 +6,7 @@
 
  - Over time I will add more functions but for the moment it is a fairly simple bot.
 
- - 24/7 hosted BOT :https://top.gg/bot/987846924331802704
+ - 24/7 hosted BOT: https://top.gg/bot/987846924331802704
 
 
 ![Fivem](https://github.com/LaAlexita/check-fivem-status/blob/main/image.png)
