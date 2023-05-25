@@ -4,4 +4,5 @@
 
 -Over time I will add more functions but for the moment it is a fairly simple bot.
 
-https://media.discordapp.net/attachments/1048356445546102805/1111353466913312808/image.png
+[https://github.com/LaAlexita/check-fivem-status/blob/main/image.png](https://github.com/LaAlexita/check-fivem-status/blob/main/image.png
+)
